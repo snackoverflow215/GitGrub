@@ -55,7 +55,7 @@ Simply run the program and watch as it creates a delicious wrap while making pro
 ### For My Career (And Maybe Yours)
 - **📈 Improve Coding Skills:** I'm learning Rust by writing recipes as code. Join me!
 - **🎯 Employability Gold:** Contributing = GitHub green squares + proof I can ship chaos.
-- **🌐 Social Media Synergy:** Recipes tie to my [YouTube](https://youtube.com/snackoverflow215) coding/food hybrid channel.
+- **🌐 Social Media Synergy:** Recipes tie to my [YouTube](https://youtube.com/@snackoverflow215) coding/food hybrid channel.
 
 ### For You
 - Learn Rust through food metaphors 🦀🍗
